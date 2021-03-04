@@ -1,5 +1,5 @@
-# Draftsman
-A CNC drawing machine project
+# PC-01
+A CNC drawing machine project - A purple crayon to draw yourself a landscape full of wonder and excitement.
 - CoreXY mechanics
 - 3D printed fixtures and gantries
 - Modified GRBL firmware
